@@ -40,4 +40,5 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 <img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/75690216-f0c0-4b89-89df-e9958db94276" />
 
 ## RESULT:
-The simulation was done in LTspice and the output waveform is obtained.<br>
+<img width="1600" height="961" alt="image" src="https://github.com/user-attachments/assets/396ccf7c-0c1e-486c-b060-40963f88b5d5" />
+
